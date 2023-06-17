@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97ec9940-3990-49c2-8e62-438f5dcdac3f": {
+      "ProjectGuid": "97ec9940-3990-49c2-8e62-438f5dcdac3f",
+      "DisplayName": "Common",
+      "ColorIndex": 0
+    },
+    "9ae2bb15-5afe-4261-b0fc-c410307b009c": {
+      "ProjectGuid": "9ae2bb15-5afe-4261-b0fc-c410307b009c",
+      "DisplayName": "Season02Execute",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "60ddc7ff-3b6b-417b-af9a-7088583f9341": {
+      "ProjectGuid": "60ddc7ff-3b6b-417b-af9a-7088583f9341",
+      "DisplayName": "Season02Query",
+      "ColorIndex": 2
+    },
+    "2811ec1e-0609-4f39-80b9-68686fca97d1": {
+      "ProjectGuid": "2811ec1e-0609-4f39-80b9-68686fca97d1",
+      "DisplayName": "Season03DapperTransaction",
+      "ColorIndex": 3
+    },
+    "0183340e-d8be-4b81-bddc-f530b8719b5b": {
+      "ProjectGuid": "0183340e-d8be-4b81-bddc-f530b8719b5b",
+      "DisplayName": "Season04DapperContrib",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

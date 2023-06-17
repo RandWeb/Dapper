@@ -1,0 +1,12 @@
+H:\BiaTech Recording\10.Dapper\RecordingCodes\LearnDapper\Common\bin\Debug\net6.0\Common.deps.json
+H:\BiaTech Recording\10.Dapper\RecordingCodes\LearnDapper\Common\bin\Debug\net6.0\Common.dll
+H:\BiaTech Recording\10.Dapper\RecordingCodes\LearnDapper\Common\bin\Debug\net6.0\ref\Common.dll
+H:\BiaTech Recording\10.Dapper\RecordingCodes\LearnDapper\Common\bin\Debug\net6.0\Common.pdb
+H:\BiaTech Recording\10.Dapper\RecordingCodes\LearnDapper\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+H:\BiaTech Recording\10.Dapper\RecordingCodes\LearnDapper\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+H:\BiaTech Recording\10.Dapper\RecordingCodes\LearnDapper\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+H:\BiaTech Recording\10.Dapper\RecordingCodes\LearnDapper\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+H:\BiaTech Recording\10.Dapper\RecordingCodes\LearnDapper\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+H:\BiaTech Recording\10.Dapper\RecordingCodes\LearnDapper\Common\obj\Debug\net6.0\Common.dll
+H:\BiaTech Recording\10.Dapper\RecordingCodes\LearnDapper\Common\obj\Debug\net6.0\ref\Common.dll
+H:\BiaTech Recording\10.Dapper\RecordingCodes\LearnDapper\Common\obj\Debug\net6.0\Common.pdb
